@@ -1,0 +1,1032 @@
+p14694:[MPI_TIMING_TEST]: ENTER. num_procs= 6, my_rank=0
+p28170:[MPI_TIMING_TEST]: ENTER. num_procs= 6, my_rank=4
+p9877:[MPI_TIMING_TEST]: ENTER. num_procs= 6, my_rank=2
+p8513:[MPI_TIMING_TEST]: ENTER. num_procs= 6, my_rank=5
+p24612:[MPI_TIMING_TEST]: ENTER. num_procs= 6, my_rank=3
+p22903:[MPI_TIMING_TEST]: ENTER. num_procs= 6, my_rank=1
+p14694:p28170:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0150.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0150.pnm
+p24612:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0150.pnm
+p9877:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0150.pnm
+p8513:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0150.pnm
+p22903:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0150.pnm
+p14694:p9877:p28170:p8513:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0151.pnm
+p24612:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0151.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0151.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0151.pnm
+p22903:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0151.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0151.pnm
+p14694:p9877:p22903:p8513:p28170:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0152.pnm
+p24612:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0152.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0152.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0152.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0152.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0152.pnm
+p14694:p9877:p22903:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0153.pnm
+p24612:p8513:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0153.pnm
+p28170:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0153.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0153.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0153.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0153.pnm
+p14694:p9877:p8513:p22903:p24612:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0154.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0154.pnm
+p28170:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0154.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0154.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0154.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0154.pnm
+p14694:p9877:p8513:p22903:p24612:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0155.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0155.pnm
+p28170:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0155.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0155.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0155.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0155.pnm
+p14694:p22903:p9877:p28170:p8513:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0156.pnm
+p24612:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0156.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0156.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0156.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0156.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0156.pnm
+p14694:p9877:p22903:p8513:p24612:p28170:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0157.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0157.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0157.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0157.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0157.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0157.pnm
+p14694:p22903:p9877:p28170:p8513:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0158.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0158.pnm
+p24612:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0158.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0158.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0158.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0158.pnm
+p14694:p9877:p8513:p22903:p24612:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0159.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0159.pnm
+p28170:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0159.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0159.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0159.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0159.pnm
+p14694:p9877:p8513:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0160.pnm
+p22903:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0160.pnm
+p28170:p24612:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0160.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0160.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0160.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0160.pnm
+p14694:p22903:p9877:p28170:p8513:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0161.pnm
+p24612:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0161.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0161.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0161.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0161.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0161.pnm
+p14694:p9877:p8513:p22903:p24612:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0162.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0162.pnm
+p28170:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0162.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0162.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0162.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0162.pnm
+p14694:p22903:p9877:p28170:p8513:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0163.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0163.pnm
+p24612:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0163.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0163.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0163.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0163.pnm
+p14694:p22903:p9877:p28170:p8513:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0164.pnm
+p24612:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0164.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0164.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0164.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0164.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0164.pnm
+p14694:p9877:p22903:p24612:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0165.pnm
+p8513:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0165.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0165.pnm
+p28170:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0165.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0165.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0165.pnm
+p14694:p9877:p22903:p28170:p8513:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0166.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0166.pnm
+p24612:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0166.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0166.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0166.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0166.pnm
+p14694:p22903:p9877:p28170:p8513:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0167.pnm
+p24612:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0167.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0167.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0167.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0167.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0167.pnm
+p14694:p22903:p9877:p24612:p8513:p28170:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0168.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0168.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0168.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0168.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0168.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0168.pnm
+p14694:p9877:p22903:p28170:p8513:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0169.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0169.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0169.pnm
+p24612:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0169.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0169.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0169.pnm
+p14694:p22903:p9877:p8513:p24612:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0170.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0170.pnm
+p28170:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0170.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0170.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0170.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0170.pnm
+p14694:p9877:p22903:p24612:p8513:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0171.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0171.pnm
+p28170:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0171.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0171.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0171.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0171.pnm
+p14694:p9877:p8513:p22903:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0172.pnm
+p24612:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0172.pnm
+p28170:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0172.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0172.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0172.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0172.pnm
+p14694:p9877:p28170:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0173.pnm
+p8513:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0173.pnm
+p24612:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0173.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0173.pnm
+p22903:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0173.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0173.pnm
+p14694:p9877:p8513:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0174.pnm
+p28170:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0174.pnm
+p24612:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0174.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0174.pnm
+p22903:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0174.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0174.pnm
+p14694:p9877:p8513:p24612:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0175.pnm
+p28170:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0175.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0175.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0175.pnm
+p22903:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0175.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0175.pnm
+p14694:p9877:p8513:p28170:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0176.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0176.pnm
+p24612:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0176.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0176.pnm
+p22903:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0176.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0176.pnm
+p14694:p22903:p9877:p8513:p28170:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0177.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0177.pnm
+p24612:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0177.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0177.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0177.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0177.pnm
+p14694:p9877:p8513:p28170:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0178.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0178.pnm
+p24612:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0178.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0178.pnm
+p22903:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0178.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0178.pnm
+p14694:p9877:p8513:p22903:p24612:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0179.pnm
+p28170:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0179.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0179.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0179.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0179.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0179.pnm
+p14694:p9877:p8513:p22903:p24612:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0180.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0180.pnm
+p28170:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0180.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0180.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0180.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0180.pnm
+p14694:p9877:p8513:p22903:p24612:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0181.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0181.pnm
+p28170:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0181.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0181.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0181.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0181.pnm
+p14694:p9877:p22903:p8513:p24612:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0182.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0182.pnm
+p28170:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0182.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0182.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0182.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0182.pnm
+p14694:p9877:p8513:p22903:p24612:p28170:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0183.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0183.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0183.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0183.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0183.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0183.pnm
+p14694:p9877:p8513:p22903:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0184.pnm
+p24612:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0184.pnm
+p28170:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0184.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0184.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0184.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0184.pnm
+p14694:p22903:p9877:p28170:p24612:p8513:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0185.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0185.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0185.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0185.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0185.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0185.pnm
+p14694:p9877:p8513:p22903:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0186.pnm
+p24612:p28170:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0186.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0186.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0186.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0186.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0186.pnm
+p14694:p9877:p22903:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0187.pnm
+p8513:p24612:p28170:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0187.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0187.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0187.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0187.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0187.pnm
+p14694:p9877:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0188.pnm
+p22903:p24612:p8513:p28170:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0188.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0188.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0188.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0188.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0188.pnm
+p14694:p9877:p22903:p8513:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0189.pnm
+p24612:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0189.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0189.pnm
+p28170:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0189.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0189.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0189.pnm
+p14694:p9877:p22903:p28170:p24612:p8513:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0190.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0190.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0190.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0190.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0190.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0190.pnm
+p14694:p9877:p22903:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0191.pnm
+p24612:p8513:p28170:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0191.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0191.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0191.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0191.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0191.pnm
+p14694:p9877:p22903:p24612:p8513:p28170:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0192.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0192.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0192.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0192.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0192.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0192.pnm
+p14694:p9877:p22903:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0193.pnm
+p24612:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0193.pnm
+p8513:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0193.pnm
+p28170:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0193.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0193.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0193.pnm
+p14694:p22903:p9877:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0194.pnm
+p28170:p8513:p24612:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0194.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0194.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0194.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0194.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0194.pnm
+p14694:p9877:p22903:p28170:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0195.pnm
+p8513:p24612:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0195.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0195.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0195.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0195.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0195.pnm
+p14694:p9877:p22903:p28170:p8513:p24612:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0196.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0196.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0196.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0196.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0196.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0196.pnm
+p14694:p9877:p22903:p8513:p24612:p28170:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0197.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0197.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0197.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0197.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0197.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0197.pnm
+p14694:p9877:p22903:p24612:p8513:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0198.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0198.pnm
+p28170:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0198.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0198.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0198.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0198.pnm
+p14694:p22903:p9877:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0199.pnm
+p8513:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0199.pnm
+p24612:p28170:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0199.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0199.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0199.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0199.pnm
+p14694:Cleaning UP 2
+Cleaning UP 5
+Cleaning UP 1
+Cleaning UP 3
+Cleaning UP 4
+[tiled_movie_timing]: [TM_SETUP_TIMER]: number of readers: 6
+p14694:[tiled_movie_timing]: [TM_SETUP_TIMER]: minimum time: 0.000038
+p14694:[tiled_movie_timing]: [TM_SETUP_TIMER]: maximum time: 0.053180
+p14694:[tiled_movie_timing]: [TM_SETUP_TIMER]: average time: 0.043741
+p14694:[tiled_movie_timing]: [TM_SETUP_TIMER]: total time: 0.306187
+p14694:[tiled_movie_timing]: [TM_OPEN_TIMER]: number of readers: 6
+p14694:[tiled_movie_timing]: [TM_OPEN_TIMER]: minimum time: 0.303612
+p14694:[tiled_movie_timing]: [TM_OPEN_TIMER]: maximum time: 0.365409
+p14694:[tiled_movie_timing]: [TM_OPEN_TIMER]: average time: 0.316243
+p14694:[tiled_movie_timing]: [TM_OPEN_TIMER]: total time: 15.812162
+p14694:[tiled_movie_timing]: [TM_SEEK_TIMER]: number of readers: 6
+p14694:[tiled_movie_timing]: [TM_SEEK_TIMER]: minimum time: 0.051966
+p14694:[tiled_movie_timing]: [TM_SEEK_TIMER]: maximum time: 0.131744
+p14694:[tiled_movie_timing]: [TM_SEEK_TIMER]: average time: 0.056844
+p14694:[tiled_movie_timing]: [TM_SEEK_TIMER]: total time: 2.842214
+p14694:[tiled_movie_timing]: [TM_READ_TIMER]: number of readers: 6
+p14694:[tiled_movie_timing]: [TM_READ_TIMER]: minimum time: 1.826965
+p14694:[tiled_movie_timing]: [TM_READ_TIMER]: maximum time: 6.287312
+p14694:[tiled_movie_timing]: [TM_READ_TIMER]: average time: 4.727175
+p14694:[tiled_movie_timing]: [TM_READ_TIMER]: total time: 236.358734
+p14694:[tiled_movie_timing]: [TM_CLOSE_TIMER]: number of readers: 6
+p14694:[tiled_movie_timing]: [TM_CLOSE_TIMER]: minimum time: 0.000345
+p14694:[tiled_movie_timing]: [TM_CLOSE_TIMER]: maximum time: 3.080027
+p14694:[tiled_movie_timing]: [TM_CLOSE_TIMER]: average time: 0.193612
+p14694:[tiled_movie_timing]: [TM_CLOSE_TIMER]: total time: 9.680587
+p14694:[MPI_TIMING_TEST]: Total mpi io time: 264.999878
+p14694:[MPI_TIMING_TEST]: total_time: 264.801758 Mbits: 5400.000000  io rate: 20.392614 Mbits/sec
+p14694:[MPI_TIMING_TEST]: END, success
+Cleaning UP 0
+p14700:[MPI_TIMING_TEST]: ENTER. num_procs= 6, my_rank=0
+p28172:[MPI_TIMING_TEST]: ENTER. num_procs= 6, my_rank=4
+p8515:[MPI_TIMING_TEST]: ENTER. num_procs= 6, my_rank=5
+p9880:[MPI_TIMING_TEST]: ENTER. num_procs= 6, my_rank=2
+p22905:[MPI_TIMING_TEST]: ENTER. num_procs= 6, my_rank=1
+p24614:[MPI_TIMING_TEST]: ENTER. num_procs= 6, my_rank=3
+p9880:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0200.pnm
+p8515:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0200.pnm
+p14700:p24614:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0200.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0200.pnm
+p22905:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0200.pnm
+p28172:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0200.pnm
+p14700:p28172:p9880:p8515:p24614:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0201.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0201.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0201.pnm
+p22905:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0201.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0201.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0201.pnm
+p14700:p9880:p22905:p8515:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0202.pnm
+p24614:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0202.pnm
+p28172:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0202.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0202.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0202.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0202.pnm
+p14700:p22905:p9880:p8515:p24614:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0203.pnm
+p28172:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0203.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0203.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0203.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0203.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0203.pnm
+p14700:p22905:p9880:p8515:p24614:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0204.pnm
+p28172:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0204.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0204.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0204.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0204.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0204.pnm
+p14700:p22905:p9880:p8515:p24614:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0205.pnm
+p28172:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0205.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0205.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0205.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0205.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0205.pnm
+p14700:p22905:p28172:p9880:p24614:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0206.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0206.pnm
+p8515:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0206.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0206.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0206.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0206.pnm
+p14700:p22905:p8515:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0207.pnm
+p24614:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0207.pnm
+p28172:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0207.pnm
+p9880:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0207.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0207.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0207.pnm
+p14700:p22905:p28172:p9880:p8515:p24614:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0208.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0208.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0208.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0208.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0208.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0208.pnm
+p14700:p28172:p9880:p8515:p24614:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0209.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0209.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0209.pnm
+p22905:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0209.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0209.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0209.pnm
+p14700:p9880:p28172:p8515:p24614:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0210.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0210.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0210.pnm
+p22905:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0210.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0210.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0210.pnm
+p14700:p28172:p9880:p8515:p24614:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0211.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0211.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0211.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0211.pnm
+p22905:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0211.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0211.pnm
+p14700:p22905:p9880:p8515:p24614:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0212.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0212.pnm
+p28172:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0212.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0212.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0212.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0212.pnm
+p14700:p28172:p9880:p8515:p24614:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0213.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0213.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0213.pnm
+p22905:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0213.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0213.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0213.pnm
+p14700:p22905:p28172:p9880:p8515:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0214.pnm
+p24614:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0214.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0214.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0214.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0214.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0214.pnm
+p14700:p28172:p9880:p8515:p24614:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0215.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0215.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0215.pnm
+p22905:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0215.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0215.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0215.pnm
+p14700:p22905:p9880:p28172:p24614:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0216.pnm
+p8515:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0216.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0216.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0216.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0216.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0216.pnm
+p14700:p22905:p9880:p8515:p28172:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0217.pnm
+p24614:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0217.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0217.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0217.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0217.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0217.pnm
+p14700:p22905:p28172:p24614:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0218.pnm
+p8515:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0218.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0218.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0218.pnm
+p9880:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0218.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0218.pnm
+p14700:p22905:p9880:p8515:p24614:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0219.pnm
+p28172:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0219.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0219.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0219.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0219.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0219.pnm
+p14700:p22905:p28172:p8515:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0220.pnm
+p24614:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0220.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0220.pnm
+p9880:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0220.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0220.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0220.pnm
+p14700:p22905:p9880:p28172:p8515:p24614:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0221.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0221.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0221.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0221.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0221.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0221.pnm
+p14700:p22905:p24614:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0222.pnm
+p8515:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0222.pnm
+p28172:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0222.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0222.pnm
+p9880:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0222.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0222.pnm
+p14700:p9880:p8515:p22905:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0223.pnm
+p24614:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0223.pnm
+p28172:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0223.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0223.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0223.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0223.pnm
+p14700:p22905:p28172:p9880:p8515:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0224.pnm
+p24614:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0224.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0224.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0224.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0224.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0224.pnm
+p14700:p22905:p24614:p28172:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0225.pnm
+p9880:p8515:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0225.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0225.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0225.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0225.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0225.pnm
+p14700:p22905:p9880:p8515:p24614:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0226.pnm
+p28172:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0226.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0226.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0226.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0226.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0226.pnm
+p14700:p9880:p8515:p22905:p24614:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0227.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0227.pnm
+p28172:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0227.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0227.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0227.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0227.pnm
+p14700:p22905:p9880:p28172:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0228.pnm
+p8515:p24614:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0228.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0228.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0228.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0228.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0228.pnm
+p14700:p22905:p9880:p24614:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0229.pnm
+p8515:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0229.pnm
+p28172:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0229.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0229.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0229.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0229.pnm
+p14700:p22905:p24614:p9880:p8515:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0230.pnm
+p28172:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0230.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0230.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0230.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0230.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0230.pnm
+p14700:p22905:p9880:p24614:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0231.pnm
+p8515:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0231.pnm
+p28172:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0231.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0231.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0231.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0231.pnm
+p14700:p22905:p9880:p8515:p24614:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0232.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0232.pnm
+p28172:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0232.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0232.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0232.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0232.pnm
+p14700:p22905:p9880:p24614:p8515:p28172:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0233.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0233.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0233.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0233.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0233.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0233.pnm
+p14700:p22905:p9880:p24614:p8515:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0234.pnm
+p28172:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0234.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0234.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0234.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0234.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0234.pnm
+p14700:p9880:p8515:p22905:p24614:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0235.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0235.pnm
+p28172:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0235.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0235.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0235.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0235.pnm
+p14700:p22905:p9880:p28172:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0236.pnm
+p8515:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0236.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0236.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0236.pnm
+p24614:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0236.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0236.pnm
+p14700:p22905:p9880:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0237.pnm
+p24614:p8515:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0237.pnm
+p28172:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0237.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0237.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0237.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0237.pnm
+p14700:p22905:p9880:p8515:p24614:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0238.pnm
+p28172:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0238.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0238.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0238.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0238.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0238.pnm
+p14700:p22905:p9880:p8515:p24614:p28172:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0239.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0239.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0239.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0239.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0239.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0239.pnm
+p14700:p22905:p9880:p28172:p8515:p24614:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0240.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0240.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0240.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0240.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0240.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0240.pnm
+p14700:p22905:p28172:p8515:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0241.pnm
+p24614:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0241.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0241.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0241.pnm
+p9880:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0241.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0241.pnm
+p14700:p22905:p28172:p9880:p8515:p24614:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0242.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0242.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0242.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0242.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0242.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0242.pnm
+p14700:p22905:p9880:p8515:p28172:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0243.pnm
+p24614:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0243.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0243.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0243.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0243.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0243.pnm
+p14700:p22905:p9880:p8515:p24614:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0244.pnm
+p28172:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0244.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0244.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0244.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0244.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0244.pnm
+p14700:p22905:p9880:p28172:p8515:p24614:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0245.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0245.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0245.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0245.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0245.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0245.pnm
+p14700:p22905:p9880:p8515:p24614:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0246.pnm
+p28172:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0246.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0246.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0246.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0246.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0246.pnm
+p14700:p22905:p24614:p9880:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0247.pnm
+p8515:p28172:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0247.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0247.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0247.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0247.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0247.pnm
+p14700:p22905:p28172:p9880:p24614:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0248.pnm
+p8515:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0248.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0248.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0248.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0248.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0248.pnm
+p14700:p22905:p8515:p24614:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0249.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0249.pnm
+p9880:p28172:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0249.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0249.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0249.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0249.pnm
+Cleaning UP 1
+Cleaning UP 3
+Cleaning UP 5
+Cleaning UP 4
+Cleaning UP 2
+p14700:[tiled_movie_timing]: [TM_SETUP_TIMER]: number of readers: 6
+p14700:[tiled_movie_timing]: [TM_SETUP_TIMER]: minimum time: 0.000038
+p14700:[tiled_movie_timing]: [TM_SETUP_TIMER]: maximum time: 0.053766
+p14700:[tiled_movie_timing]: [TM_SETUP_TIMER]: average time: 0.044840
+p14700:[tiled_movie_timing]: [TM_SETUP_TIMER]: total time: 0.313877
+p14700:[tiled_movie_timing]: [TM_OPEN_TIMER]: number of readers: 6
+p14700:[tiled_movie_timing]: [TM_OPEN_TIMER]: minimum time: 0.303469
+p14700:[tiled_movie_timing]: [TM_OPEN_TIMER]: maximum time: 0.343003
+p14700:[tiled_movie_timing]: [TM_OPEN_TIMER]: average time: 0.315564
+p14700:[tiled_movie_timing]: [TM_OPEN_TIMER]: total time: 15.778218
+p14700:[tiled_movie_timing]: [TM_SEEK_TIMER]: number of readers: 6
+p14700:[tiled_movie_timing]: [TM_SEEK_TIMER]: minimum time: 0.051975
+p14700:[tiled_movie_timing]: [TM_SEEK_TIMER]: maximum time: 0.076644
+p14700:[tiled_movie_timing]: [TM_SEEK_TIMER]: average time: 0.055583
+p14700:[tiled_movie_timing]: [TM_SEEK_TIMER]: total time: 2.779156
+p14700:[tiled_movie_timing]: [TM_READ_TIMER]: number of readers: 6
+p14700:[tiled_movie_timing]: [TM_READ_TIMER]: minimum time: 2.019013
+p14700:[tiled_movie_timing]: [TM_READ_TIMER]: maximum time: 6.237498
+p14700:[tiled_movie_timing]: [TM_READ_TIMER]: average time: 4.708343
+p14700:[tiled_movie_timing]: [TM_READ_TIMER]: total time: 235.417145
+p14700:[tiled_movie_timing]: [TM_CLOSE_TIMER]: number of readers: 6
+p14700:[tiled_movie_timing]: [TM_CLOSE_TIMER]: minimum time: 0.000341
+p14700:[tiled_movie_timing]: [TM_CLOSE_TIMER]: maximum time: 2.600090
+p14700:[tiled_movie_timing]: [TM_CLOSE_TIMER]: average time: 0.223059
+p14700:[tiled_movie_timing]: [TM_CLOSE_TIMER]: total time: 11.152947
+p14700:[MPI_TIMING_TEST]: Total mpi io time: 265.441345
+p14700:[MPI_TIMING_TEST]: total_time: 265.237000 Mbits: 5400.000000  io rate: 20.359151 Mbits/sec
+p14700:[MPI_TIMING_TEST]: END, success
+Cleaning UP 0
+p14705:[MPI_TIMING_TEST]: ENTER. num_procs= 6, my_rank=0
+p28174:[MPI_TIMING_TEST]: ENTER. num_procs= 6, my_rank=4
+p9884:[MPI_TIMING_TEST]: ENTER. num_procs= 6, my_rank=2
+p8517:[MPI_TIMING_TEST]: ENTER. num_procs= 6, my_rank=5
+p24617:[MPI_TIMING_TEST]: ENTER. num_procs= 6, my_rank=3
+p22907:[MPI_TIMING_TEST]: ENTER. num_procs= 6, my_rank=1
+p28174:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0250.pnm
+p24617:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0250.pnm
+p9884:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0250.pnm
+p22907:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0250.pnm
+p8517:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0250.pnm
+p14705:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0250.pnm
+p14705:p22907:p28174:p9884:p24617:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0251.pnm
+p8517:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0251.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0251.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0251.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0251.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0251.pnm
+p14705:p22907:p9884:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0252.pnm
+p24617:p28174:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0252.pnm
+p8517:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0252.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0252.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0252.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0252.pnm
+p14705:p22907:p9884:p28174:p8517:p24617:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0253.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0253.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0253.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0253.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0253.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0253.pnm
+p14705:p22907:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0254.pnm
+p9884:p8517:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0254.pnm
+p28174:p24617:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0254.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0254.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0254.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0254.pnm
+p14705:p22907:p9884:p8517:p24617:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0255.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0255.pnm
+p28174:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0255.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0255.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0255.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0255.pnm
+p14705:p22907:p9884:p8517:p24617:p28174:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0256.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0256.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0256.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0256.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0256.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0256.pnm
+p14705:p22907:p9884:p8517:p24617:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0257.pnm
+p28174:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0257.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0257.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0257.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0257.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0257.pnm
+p14705:p22907:p9884:p8517:p24617:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0258.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0258.pnm
+p28174:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0258.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0258.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0258.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0258.pnm
+p14705:p22907:p9884:p8517:p24617:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0259.pnm
+p28174:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0259.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0259.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0259.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0259.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0259.pnm
+p14705:p22907:p9884:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0260.pnm
+p24617:p28174:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0260.pnm
+p8517:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0260.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0260.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0260.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0260.pnm
+p22907:p28174:p9884:p8517:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0261.pnm
+p24617:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0261.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0261.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0261.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0261.pnm
+p14705:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0261.pnm
+p9884:p22907:p24617:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0262.pnm
+p8517:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0262.pnm
+p28174:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0262.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0262.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0262.pnm
+p14705:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0262.pnm
+p14705:p22907:p28174:p9884:p8517:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0263.pnm
+p24617:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0263.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0263.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0263.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0263.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0263.pnm
+p14705:p22907:p28174:p9884:p24617:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0264.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0264.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0264.pnm
+p8517:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0264.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0264.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0264.pnm
+p14705:p22907:p9884:p8517:p24617:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0265.pnm
+p28174:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0265.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0265.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0265.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0265.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0265.pnm
+p9884:p24617:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0266.pnm
+p8517:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0266.pnm
+p28174:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0266.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0266.pnm
+p22907:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0266.pnm
+p14705:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0266.pnm
+p14705:p28174:p9884:p8517:p24617:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0267.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0267.pnm
+p22907:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0267.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0267.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0267.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0267.pnm
+p14705:p28174:p9884:p8517:p24617:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0268.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0268.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0268.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0268.pnm
+p22907:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0268.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0268.pnm
+p14705:p22907:p9884:p24617:p8517:p28174:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0269.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0269.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0269.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0269.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0269.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0269.pnm
+p14705:p22907:p9884:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0270.pnm
+p24617:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0270.pnm
+p28174:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0270.pnm
+p8517:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0270.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0270.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0270.pnm
+p14705:p22907:p9884:p24617:p28174:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0271.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0271.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0271.pnm
+p8517:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0271.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0271.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0271.pnm
+p14705:p22907:p9884:p24617:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0272.pnm
+p28174:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0272.pnm
+p8517:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0272.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0272.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0272.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0272.pnm
+p14705:p22907:p9884:p8517:p28174:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0273.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0273.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0273.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0273.pnm
+p24617:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0273.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0273.pnm
+p14705:p22907:p9884:p8517:p28174:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0274.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0274.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0274.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0274.pnm
+p24617:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0274.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0274.pnm
+p14705:p22907:p9884:p8517:p28174:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0275.pnm
+p24617:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0275.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0275.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0275.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0275.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0275.pnm
+p14705:p22907:p28174:p9884:p24617:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0276.pnm
+p8517:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0276.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0276.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0276.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0276.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0276.pnm
+p14705:p9884:p22907:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0277.pnm
+p28174:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0277.pnm
+p8517:p24617:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0277.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0277.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0277.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0277.pnm
+p14705:p22907:p9884:p8517:p24617:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0278.pnm
+p28174:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0278.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0278.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0278.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0278.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0278.pnm
+p14705:p22907:p28174:p9884:p8517:p24617:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0279.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0279.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0279.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0279.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0279.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0279.pnm
+p14705:p22907:p9884:p8517:p24617:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0280.pnm
+p28174:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0280.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0280.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0280.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0280.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0280.pnm
+p14705:p22907:p9884:p24617:p28174:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0281.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0281.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0281.pnm
+p8517:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0281.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0281.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0281.pnm
+p14705:p22907:p9884:p8517:p24617:p28174:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0282.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0282.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0282.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0282.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0282.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0282.pnm
+p14705:p22907:p9884:p8517:p24617:p28174:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0283.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0283.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0283.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0283.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0283.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0283.pnm
+p14705:p9884:p8517:p22907:p24617:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0284.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0284.pnm
+p28174:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0284.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0284.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0284.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0284.pnm
+p14705:p22907:p24617:p9884:p8517:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0285.pnm
+p28174:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0285.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0285.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0285.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0285.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0285.pnm
+p14705:p22907:p24617:p9884:p8517:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0286.pnm
+p28174:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0286.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0286.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0286.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0286.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0286.pnm
+p14705:p22907:p9884:p8517:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0287.pnm
+p24617:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0287.pnm
+p28174:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0287.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0287.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0287.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0287.pnm
+p14705:p22907:p24617:p9884:p8517:p28174:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0288.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0288.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0288.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0288.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0288.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0288.pnm
+p14705:p22907:p9884:p28174:p8517:p24617:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0289.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0289.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0289.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0289.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0289.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0289.pnm
+p14705:p9884:p22907:p8517:p24617:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0290.pnm
+p28174:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0290.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0290.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0290.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0290.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0290.pnm
+p14705:p22907:p24617:p9884:p8517:p28174:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0291.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0291.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0291.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0291.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0291.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0291.pnm
+p14705:p22907:p24617:p9884:p8517:p28174:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0292.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0292.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0292.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0292.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0292.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0292.pnm
+p14705:p22907:p24617:p9884:p8517:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0293.pnm
+p28174:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0293.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0293.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0293.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0293.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0293.pnm
+p14705:p22907:p9884:p28174:p8517:p24617:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0294.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0294.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0294.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0294.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0294.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0294.pnm
+p14705:p22907:p28174:p8517:p24617:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0295.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0295.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0295.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0295.pnm
+p9884:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0295.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0295.pnm
+p14705:p22907:p9884:p8517:p24617:p28174:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0296.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0296.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0296.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0296.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0296.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0296.pnm
+p14705:p22907:p9884:p8517:p24617:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0297.pnm
+p28174:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0297.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0297.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0297.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0297.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0297.pnm
+p14705:p22907:p9884:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0298.pnm
+p24617:p8517:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0298.pnm
+p28174:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0298.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0298.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0298.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0298.pnm
+p14705:p22907:p28174:p9884:p24617:p8517:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0299.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0299.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0299.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0299.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0299.pnm
+[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0299.pnm
+Cleaning UP 1
+p14705:Cleaning UP 3
+Cleaning UP 2
+Cleaning UP 5
+Cleaning UP 4
+[tiled_movie_timing]: [TM_SETUP_TIMER]: number of readers: 6
+p14705:[tiled_movie_timing]: [TM_SETUP_TIMER]: minimum time: 0.000041
+p14705:[tiled_movie_timing]: [TM_SETUP_TIMER]: maximum time: 0.055641
+p14705:[tiled_movie_timing]: [TM_SETUP_TIMER]: average time: 0.045319
+p14705:[tiled_movie_timing]: [TM_SETUP_TIMER]: total time: 0.317234
+p14705:[tiled_movie_timing]: [TM_OPEN_TIMER]: number of readers: 6
+p14705:[tiled_movie_timing]: [TM_OPEN_TIMER]: minimum time: 0.306027
+p14705:[tiled_movie_timing]: [TM_OPEN_TIMER]: maximum time: 0.343861
+p14705:[tiled_movie_timing]: [TM_OPEN_TIMER]: average time: 0.316220
+p14705:[tiled_movie_timing]: [TM_OPEN_TIMER]: total time: 15.811004
+p14705:[tiled_movie_timing]: [TM_SEEK_TIMER]: number of readers: 6
+p14705:[tiled_movie_timing]: [TM_SEEK_TIMER]: minimum time: 0.051349
+p14705:[tiled_movie_timing]: [TM_SEEK_TIMER]: maximum time: 0.073826
+p14705:[tiled_movie_timing]: [TM_SEEK_TIMER]: average time: 0.055357
+p14705:[tiled_movie_timing]: [TM_SEEK_TIMER]: total time: 2.767828
+p14705:[tiled_movie_timing]: [TM_READ_TIMER]: number of readers: 6
+p14705:[tiled_movie_timing]: [TM_READ_TIMER]: minimum time: 2.024458
+p14705:[tiled_movie_timing]: [TM_READ_TIMER]: maximum time: 6.277114
+p14705:[tiled_movie_timing]: [TM_READ_TIMER]: average time: 4.740328
+p14705:[tiled_movie_timing]: [TM_READ_TIMER]: total time: 237.016403
+p14705:[tiled_movie_timing]: [TM_CLOSE_TIMER]: number of readers: 6
+p14705:[tiled_movie_timing]: [TM_CLOSE_TIMER]: minimum time: 0.000343
+p14705:[tiled_movie_timing]: [TM_CLOSE_TIMER]: maximum time: 2.629949
+p14705:[tiled_movie_timing]: [TM_CLOSE_TIMER]: average time: 0.178051
+p14705:[tiled_movie_timing]: [TM_CLOSE_TIMER]: total time: 8.902565
+p14705:[MPI_TIMING_TEST]: Total mpi io time: 264.815033
+p14705:[MPI_TIMING_TEST]: total_time: 264.602142 Mbits: 5400.000000  io rate: 20.407998 Mbits/sec
+p14705:[MPI_TIMING_TEST]: END, success
+Cleaning UP 0
+p14709:[MPI_TIMING_TEST]: ENTER. num_procs= 6, my_rank=0
+p28176:[MPI_TIMING_TEST]: ENTER. num_procs= 6, my_rank=4
+p9886:[MPI_TIMING_TEST]: ENTER. num_procs= 6, my_rank=2
+p24621:[MPI_TIMING_TEST]: ENTER. num_procs= 6, my_rank=3
+p8519:[MPI_TIMING_TEST]: ENTER. num_procs= 6, my_rank=5
+p22909:[MPI_TIMING_TEST]: ENTER. num_procs= 6, my_rank=1
+p9886:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0300.pnm
+p8519:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0300.pnm
+p24621:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0300.pnm
+p28176:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0300.pnm
+p22909:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0300.pnm
+p14709:[MPI_TIMING_TEST]:  frame_in_movie_num: 0, getting file: /pvfs/scratch/aarestad/frame0300.pnm

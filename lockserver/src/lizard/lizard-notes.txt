@@ -1,0 +1,53 @@
+#
+# Rob Ross, 09/08/2001
+#
+# Notes on the lizard code, taken on 09/07/2001 (and almost certainly
+# modified since).  This is all thanks to Joe Insley.
+
+This is a benchmark code that simulates the file read I/O part of a parallel
+application which stages data for a tiled display.
+
+The dataset is a set of frames (92 in Joe's tests) which make up a movie.
+Each frame is split into "tiles" for the purposes of display.  Each frame is
+of the same size, so it's ok to have 1 real frame and make copies of it for
+testing purposes.
+
+I have a gzipped example frame stored in this directory exactly for this
+purpose.
+
+In this specific case, frames are 2532x1408x3 bytes.  Tiles are 1024x768x3
+bytes; there is overlap between them.  Each frame has a 17 byte header (ack!).
+
+Modes
+-----
+There are three modes in which the code can run:
+(1) readers split up tiles into pieces
+    - no defines are needed in code
+    - can turn on collective access in this mode
+(2) readers each read a tile
+    - define BIG_READS
+    - should use 6 processes probably
+(3) readers read entire frames (files)
+    - define HUGE_READS
+
+Arguments
+---------
+lizard ~foo/uM/frame .pnm 0 92 6
+
+Frames are in ~foo/uM/ and are frame0000.pnm ... frame0092.pnm
+
+argument 1 - filename up to where the index starts
+argument 2 - extension of file
+
+[app puts the index in the middle and creates the filename; indices are 4 
+digits]
+
+argument 3 - starting frame number
+argument 4 - ending frame number
+argument 5 - number of tiles in a frame
+
+Both timing and size values spit out from application should be correct.
+
+Notes
+-----
+- Having PVFS re-use iod connections would really help this application.
