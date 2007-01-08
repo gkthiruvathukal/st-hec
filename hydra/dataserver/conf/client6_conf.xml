@@ -1,0 +1,11 @@
+<conf>
+    <name id="6" />
+    <address ip="192.168.11.6" port="10006" />
+    <backlog number="300"/>
+    <metadataservers>
+        <mdserver ip="192.168.11.1" port="5000"/>
+        <mdserver ip="192.168.11.1" port="5001"/>
+        <mdserver ip="192.168.11.1" port="5002"/>
+    </metadataservers>
+    <storage path="/home/benjamin/hydra_data/c6" db="/home/benjamin/hydra_data/c6/c6_rep_db.db" />
+</conf>
