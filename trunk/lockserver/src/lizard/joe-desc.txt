@@ -1,0 +1,41 @@
+From insley@mcs.anl.gov Fri Sep 14 10:50:12 2001
+Date: Mon, 10 Sep 2001 13:37:44 -0500 (CDT)
+From: Joseph Insley <insley@mcs.anl.gov>
+To: Robert Ross <rross@mcs.anl.gov>
+Subject: Re: hey
+
+
+On Mon, 10 Sep 2001, Robert Ross wrote:
+
+>so what can i say about what is done with the data from the tile reader?
+>it is placed in single files on each of the tile display nodes?
+>
+
+that sounds right, but just to clarify, i'll give you my explanation, and
+you can see if it matches what you're thinking...
+
+after the data for each frame is read in, the bits for each tile in the 
+image are sent to the appropriate node in the viz cluster.  each viz node
+saves the data that it receives (i.e. tile N for each frame of the movie)
+into a single movie file.  (actually i'll need to do some work to modify
+this at some point, to accomidate movies that are >2GB, by putting them
+into multiple files, but you get the idea).
+
+
+>i am doing some work to pinpoint the location of the overhead in the
+>collective access; i'd really like that to be reasonably fast.  it should
+>be of more use in the BIG read (everyone gets a tile) case than in the
+>subtile one.
+>
+>do you want me to send you any changes i make to this code?  i have a bad
+>habit of hacking the hell out of things, and i'd be happy to share the
+>results with you as i go, or i can just keep them and leave you be :).
+>your call.
+>
+
+sure, i'd be interested in seeing any changes that you make, assuming that
+they make it faster :)
+
+thanks,
+joe.
+

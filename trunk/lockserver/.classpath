@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="jhpc-message-c/|lockserver-client-api/" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry sourcepath="/Users/aarestad/commons-collections-3.1/src/java" kind="lib" path="lib/commons-collections-3.1.jar"/>
+	<classpathentry sourcepath="/Users/aarestad/Documents/jdsl-2.1.1/src" kind="lib" path="lib/jdsl.jar"/>
+	<classpathentry sourcepath="/Users/aarestad/Documents/data structures/" kind="lib" path="lib/net-datastructures.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

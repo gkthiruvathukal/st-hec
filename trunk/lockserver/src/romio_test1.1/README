@@ -1,0 +1,13 @@
+6/10/2005 - I have fixed the code to use MPI_TYPE_VECTOR.
+
+2/22/2005 - Make the code much better.  However, it requires that
+MPI_Type_struct support MPI_LB and MPI_UB.  I have modified it for
+easy operation.
+
+9/5/2002 - added compiler flags to compile for reading and writing so
+in between we can clear the caches of the I/O servers.  Note, the
+first write and read are simply to load the executable code
+(MPI_File_write_all and MPI_File_read_all) into memory.  Interesting.
+
+To run:
+mpiexec -n 8 ./coll_perf -write -posix -gsize 10 -filename hi2
