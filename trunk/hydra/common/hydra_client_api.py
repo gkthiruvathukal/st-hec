@@ -77,8 +77,8 @@ class HydraClientAPI:
 
         self.net = None
         self.pb = packet_builder.PacketBuilder()
-        
-        plugin.initPlugins(self,'./common/plugins')
+                
+        plugin.initPlugins(self,os.path.join(os.path.dirname(os.path.realpath(__file__)), 'plugins'))
 
     def registerPacket(self, code, builder):
         self.pb.registerPacket(code,builder)
@@ -239,7 +239,8 @@ class HydraClientAPI:
 
             net = self.__open_mdserver()
             self.__tell_server(net,packet_types.FS_ERR_DATASERVER_FAILED,data)
-            
+            raise FileSystemError("Could not contact data server %s:%s" % (ip, port))
+        
         #tell dataserver we want to get this block
         data = packet_builder.Data(params={'oid':block.oid,'block_id':block.block_id,'version':block.version})
         self.__tell_server(net, packet_types.FS_REQUEST_BLOCK, data)
