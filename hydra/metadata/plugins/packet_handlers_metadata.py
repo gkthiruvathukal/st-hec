@@ -26,6 +26,7 @@ import os
 
 from common import network_services, packet_builder, packet_types, fs_db
 from common.plugin import PacketHandler, initPlugins
+from common.fs_db import FileSystemError
 
 import threading
 
@@ -39,7 +40,7 @@ class Handle_ANNOUNCE(PacketHandler):
         
         #add client to the active clients list
         
-#        print "Client %s@%s:%s has announced itself" % (data.serverid,data.ip, data.port)
+        #print "Client %s@%s:%s has announced itself" % (data.serverid,data.ip, data.port)
         
         self.app.serverList.add(data.serverid,data.ip,data.port)
         
@@ -51,7 +52,9 @@ class Handle_ANNOUNCE(PacketHandler):
 
 class Handle_HEARTBEAT(PacketHandler):
     def process(self, data):
-        
+
+        print "Client %s@%s:%s has sent a heartbeat" % (data.serverid,data.ip, data.port)
+
         #add client to the active clients list
         self.app.serverList.add(data.serverid,data.ip,data.port)
         
@@ -72,7 +75,6 @@ class Handle_FS_CREATE(PacketHandler):
             return None
         
         #check if the file already exists
-
         file = self.fs.get_file(path=data.path)
 
                 
@@ -96,12 +98,45 @@ class Handle_FS_CREATE(PacketHandler):
         elif type == 0: #it's a folder
             block_size = 0
         
-        #store the file in our database
-
+        #store the file in our database        
         (path,name) = os.path.split(data.path)
         f = FSObject(0,1,name,0,type,0, block_size)
-        oid = self.fs.insert_file(path,f)
-
+        
+        try:            
+            oid = self.fs.insert_file(path,f)
+            
+        
+        # if this exception occurs at this point, it means the file doesn't have one or more parent directories.
+        except FileSystemError: 
+            
+            dirs = []
+            tmp = (path,None)
+                        
+            while 1:                
+                tmp = os.path.split(tmp[0])                                            
+                dirs.insert(0, tmp)
+                if tmp[0] == '/':
+                    break            
+            
+            # lets start trying to create those parent directories!
+            print "-----------"            
+            print dirs
+            print "-----------"
+            for i in dirs:
+                
+                # check if directory already exists
+                tmp = i[0] + '/' + i[1]
+                if self.fs.get_file(path=tmp):
+                    print str(tmp) + " exists. Continue.................................."
+                    continue
+                
+                # create the directory                                
+                print str(tmp) + " is being created................"
+                x = FSObject(0,1,i[1],0,0,0,0)
+                self.fs.insert_file(i[0],x)                
+                
+            # store the file
+            oid = self.fs.insert_file(path,f)
 
         
         try:
@@ -433,18 +468,18 @@ class Handle_FS_STAT_FILE(PacketHandler):
             self.net.write(self.pb.build(packet_types.FS_ERR_PATH_NOT_FOUND, data))
             return None
 
-        data = packet_builder.Data(params={'oid':file.oid,'path':file.path,'num_blocks':len(file.blocks),'version':file.version,'size':file.size,'file_type':file.type,'parent':file.parent,'block_size':file.block_size})
-        
+        data = packet_builder.Data(params={'oid':file.oid,'path':file.path,'num_blocks':len(file.blocks),'version':file.version,'size':file.size,'file_type':file.type,'parent':file.parent,'block_size':file.block_size})        
     
         if file.type == 0:
             children = []
             
             for child in self.fs.get_children(file.oid):
-                    data_child = packet_builder.Data(params={'oid':child.oid,'path':child.path,'num_blocks':len(child.blocks),'version':child.version,'size':child.size,'file_type':child.type,'parent':child.parent,'block_size':child.block_size})
+                    data_child = packet_builder.Data(params={'oid':child.oid,'path':child.path,'num_blocks':len(child.blocks),'version':child.version,'size':child.size,'file_type':child.type,'parent':child.parent,'block_size':child.block_size})                    
                     children.append(data_child)
             
             data.children = children
         
+        #print data
         self.net.write(self.pb.build(packet_types.FS_FILE_INFO, data))
             
 

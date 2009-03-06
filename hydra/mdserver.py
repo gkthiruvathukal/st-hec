@@ -37,7 +37,7 @@ class MDServer:
     def __init__(self, cfg):
         self.socket = 0
         self.cfg = cfg       #configuration parameters
-        self.fs_db = synchronized.SynchronizedObject(fs_db.DB(self.cfg.STORAGE_PATH)) #initialize the database
+        self.fs_db = synchronized.SynchronizedObject(fs_db.DB(self.cfg.STORAGE_PATH, self.cfg.STORAGE_MODULE)) #initialize the database
         self.fs_db.setup_fs_db()
         
         self.pb = packet_builder.PacketBuilder()
@@ -227,10 +227,11 @@ class Config:
             self.PORT = int(xmldoc.getElementsByTagName('address')[0].attributes['port'].value)
             self.BACKLOG = int(xmldoc.getElementsByTagName('backlog')[0].attributes['number'].value)
             self.STORAGE_PATH = xmldoc.getElementsByTagName('storage')[0].attributes['path'].value
+            self.STORAGE_MODULE = xmldoc.getElementsByTagName('storage')[0].attributes['module'].value
             
             if not self.STORAGE_PATH or not os.path.exists(self.STORAGE_PATH):
-                raise ConfigException("Storage path %s does not exist" % self.STORAGE_PATH)
-                
+                raise ConfigException("Storage path %s does not exist" % self.STORAGE_PATH)                        
+            
             self.BLOCK_SIZE = xmldoc.getElementsByTagName('block')[0].attributes['size'].value
             self.REPLICAS = xmldoc.getElementsByTagName('replicas')[0].attributes['number'].value
     

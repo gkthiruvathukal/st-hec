@@ -1,11 +1,9 @@
 <conf>
     <name id="2" />
-    <address ip="192.168.11.9" port="10002" />
+    <address ip="172.20.1.2" port="10001" />
     <backlog number="300"/>
     <metadataservers>
-        <mdserver ip="192.168.11.1" port="5000"/>
-        <mdserver ip="192.168.11.1" port="5001"/>
-        <mdserver ip="192.168.11.1" port="5002"/>
+        <mdserver ip="172.20.1.1" port="5000"/>
     </metadataservers>
-    <storage path="/home/benjamin/hydra_data/c2" db="/home/benjamin/hydra_data/c2/c2_rep_db.db" />
+    <storage path="c:\support\hydra\db2" db="c:\support\hydra\db2\c1_rep_db.db" module="rep_db_buzhug.py"/>
 </conf>

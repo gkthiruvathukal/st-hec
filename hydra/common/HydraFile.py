@@ -81,15 +81,24 @@ class HydraFile:
         self.block_size = file.block_size
         self.file_size = file.size
 
+
+    def delete_file(self, file):        
+        self.__exists_object(file)
+    
+    def __exists_object(self, obj):
+        (file, children) = self.hydra.stat_file(obj)
+        if not file:
+            raise HydraClientException("File not found: %s" % path)
+    
+        return (file,children)
+    
     def stat_file(self,path):
         import stat
         st_mode = 0
         
-        print "HydraFile.stat_file(%s)" % path
-        (file, children) = self.hydra.stat_file(path)
-        print "HydraFile.stat_file: %s" % file
-        if not file:
-            raise HydraClientException("File not found: %s" % path)
+        #print "HydraFile.stat_file(%s)" % path
+        (file, children) = self.__exists_object(path)
+        #print "HydraFile.stat_file: %s" % file        
         
         if file.type == 1: #this is a file
             st_mode |= stat.S_IFREG
@@ -297,6 +306,11 @@ class HydraFile:
     def rename(self, src, dest):
         self.hydra.rename_file(src,dest)
         
+    def delete(self, file):
+        self.delete_file(file)
+        
+        
+    
     def open(self,name,mode='r',bufsize=0):
         """Contacts the metadata server about a file and requests/sends information
         depending on the mode the file was opened"""

@@ -67,10 +67,11 @@ class Config:
             self.BACKLOG = int(xmldoc.getElementsByTagName('backlog')[0].attributes['number'].value)
             self.STORAGE_PATH = xmldoc.getElementsByTagName('storage')[0].attributes['path'].value
             self.STORAGE_DB = xmldoc.getElementsByTagName('storage')[0].attributes['db'].value
+            self.STORAGE_MODULE = xmldoc.getElementsByTagName('storage')[0].attributes['module'].value
             
             if not self.STORAGE_PATH or not os.path.exists(self.STORAGE_PATH):
                 raise ConfigException("Storage path %s does not exist" % self.STORAGE_PATH)
-            
+                        
             for c in xmldoc.getElementsByTagName('mdserver'):
                 self.mdservers.append((c.attributes['ip'].value,int(c.attributes['port'].value)))
     
@@ -160,7 +161,7 @@ class DataServer:
         self.socket = 0
         self.cfg = cfg
         self.timer = None
-        self.db = synchronized.SynchronizedObject(RepDB(cfg.STORAGE_DB)) #objects stored database
+        self.db = synchronized.SynchronizedObject(RepDB(cfg.STORAGE_DB, self.cfg.STORAGE_MODULE)) #objects stored database
         self.db.open()
         self.pb = packet_builder.PacketBuilder()
         self.dispatcher = Dispatcher(cfg, self.db, self.pb, self) #dispatches handlers for incoming packets
